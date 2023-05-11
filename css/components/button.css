@@ -1,0 +1,37 @@
+
+.btn-sign:hover {
+  background-color: #151515;
+  transition: 100ms ease-in-out;
+ }
+
+.btn-read {
+  text-decoration: none;
+  margin-top: 45px;
+ }
+
+.btn-read:hover {
+  color: gray;
+}
+
+.fa-brands {
+  color: #dcdcdc;
+  margin: 10px;
+  font-size: 50px;
+}
+.fa-brands:hover {
+  animation: pulse .7s infinite;
+  transition: .4s;
+}
+@keyframes pulse {
+
+  0% {
+    transform: scale(1);
+  }
+  80% {
+    transform: scale(.9);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

@@ -1,0 +1,16 @@
+
+footer {
+  background-color: #151515;
+  color: #dcdcdc;
+}
+
+ul {
+  padding: 0;
+  text-decoration: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  list-style: none;
+  align-items: center;
+}

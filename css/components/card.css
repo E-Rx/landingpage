@@ -1,0 +1,13 @@
+.card-icons {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+}
+
+.card-about {
+  background-color: #dcdcdc;
+}
+
+.card-about a {
+  color: #151515
+}

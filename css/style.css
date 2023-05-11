@@ -1,0 +1,67 @@
+@import url("/landing/css/components/button.css");
+@import url("/landing/css/components/card.css");
+@import url("/landing/css/components/icon.css");
+@import url("/landing/css/components/container.css");
+@import url("/landing/css/components/footer.css");
+
+
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 65px;
+  font-weight: 700;
+  margin: 40px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 25px;
+  color: #dcdcdc;
+  text-align: right;
+}
+
+h5 {
+  font-size: 12px;
+  font-weight: lighter;
+  color: #dcdcdc;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+header {
+  background-image: url("/landing/images/background-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+}
+
+header a {
+  color: white;
+  border: white solid;
+  border-radius: 40px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 25px;
+  display: inline-block;
+}
